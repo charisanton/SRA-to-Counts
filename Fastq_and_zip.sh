@@ -25,6 +25,7 @@ echo -e "$blue
   +--------------------------------------------------------+
 
   $clear"
+datasets="/media/charis/hdd/RNA-seq/datasets*.txt"
 for f in $datasets
 do
 while read -r line
